@@ -1,0 +1,4 @@
+baseURL = 'https://scoutsmontreal.com/'
+languageCode = 'en-us'
+title = 'Trinity Scouts Montreal 24th'
+theme = 'personal-web'
